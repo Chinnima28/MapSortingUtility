@@ -73,11 +73,11 @@ java -cp .;MapSortingUtility.jar YourMainClass
 
 ## Integrated Development Environment (IDE):
 
-###Import the Project:
+### Import the Project:
 
 - Open the project folder in your IDE.
 
-###Add the JAR File to Your Project:
+### Add the JAR File to Your Project:
 
 - **For VS Code:**  
   Modify `launch.json` and `tasks.json` to include the JAR file in the classpath.
@@ -93,6 +93,6 @@ java -cp .;MapSortingUtility.jar YourMainClass
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
