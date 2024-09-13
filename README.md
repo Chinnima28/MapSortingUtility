@@ -31,6 +31,7 @@ The MapSortingUtility library includes the `MapSorter` class with the following 
 
 ```bash
 git clone https://github.com/yourusername/MapSortingUtility.git
+```
 
 
 ### 2. Include the Package in Your Project Command-Line Interface (CLI):
@@ -39,18 +40,21 @@ git clone https://github.com/yourusername/MapSortingUtility.git
 
 ```bash
 cd MapSortingUtility
+```
 
 
 **Compile the Source Code (If you need to modify or recompile):**
 
 ```bash
 javac com/example/utils/MapSorter.java
+```
 
 
 **Package the Compiled Classes into a JAR File:**
 
 ```bash
 jar cf MapSortingUtility.jar com/example/utils/MapSorter.class
+```
 
 
 **Include the JAR File in Your Project:**
@@ -59,11 +63,13 @@ Compile Your Java Files:
 
 ```bash
 javac -cp .;MapSortingUtility.jar YourJavaFile.java
+```
 
 Run Your Java Program:
 
 ```bash
 java -cp .;MapSortingUtility.jar YourMainClass
+```
 
 ## Integrated Development Environment (IDE):
 
